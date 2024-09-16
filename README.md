@@ -12,17 +12,11 @@ This project is a Solana-based application that provides various functionalities
 - **Create Account**: Create new Solana accounts.
 - **Change Owner**: Change the ownership of an account or token.
 
-## Technologies Used
 
-- **React**: Frontend framework for building the user interface.
-- **Tailwind CSS**: Utility-first CSS framework for styling.
-- **@solana/wallet-adapter-react**: React hooks and context for managing wallet connections.
-- **@solana/wallet-adapter-wallets**: Adapters for different Solana wallets.
-- **@solana/spl-token**: SPL Token program for managing token-related functionalities.
 
-## Setup and Installation
+## Setup 
 
-1. **Clone the Repository**
+ **Clone the Repository**
 
    ```bash
    git clone https://github.com/Yashvardhandhondge/solana-user-onboarding-platform.git
