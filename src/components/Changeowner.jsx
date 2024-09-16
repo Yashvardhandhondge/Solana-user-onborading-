@@ -48,7 +48,7 @@ export function ChangeOwner() {
 
     return (
         <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 p-8 hover:scale-105 rounded-lg">
-            <div className="bg-white p-8 rounded-lg shadow-lg max-w-lg w-full transform transition-transform duration-300 bg-gradient-to-r from-emerald-300 via-purple-100 hover:scale-105">
+            <div className="bg-white p-8 rounded-lg shadow-lg max-w-lg w-full transform transition-transform duration-300  hover:scale-105">
                 <h2 className="text-2xl font-bold mb-6 text-gray-800 text-center">Change Token Account Owner</h2>
                 <div className="space-y-4">
                     <input

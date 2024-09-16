@@ -48,7 +48,7 @@ export function TokenTransfer() {
 
     return (
         <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-8 rounded-lg">
-            <div className="bg-white p-8 rounded-lg shadow-lg max-w-md w-full transform bg-gradient-to-r from- via-orange-400 transition-transform duration-300 hover:scale-105">
+            <div className="bg-white p-8 rounded-lg shadow-lg max-w-md w-full transform  transition-transform duration-300 hover:scale-105">
                 <h2 className="text-2xl font-bold mb-6 text-gray-800 text-center">Transfer Tokens</h2>
                 <div className="space-y-4">
                     <input
